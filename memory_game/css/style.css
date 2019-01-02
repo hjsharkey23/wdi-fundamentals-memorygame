@@ -25,6 +25,7 @@ h1 {
 	text-transform: uppercase;
 	margin: 0;
 }
+
 a {
 	font-family: "Raleway" , sans-sarif;
 	color: #F15B31;
@@ -38,12 +39,25 @@ a {
 
 }
 
+
 a:hover {
 	border-color: white;
 
 }
 
+
+
 h2 {
+	font-family:"Raleway"  , sans-sarif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+
+}
+
+h3 {
 	font-family:"Raleway"  , sans-sarif;
 	color: #0D2C40;
 	letter-spacing: 1px;
